@@ -1,0 +1,14 @@
+.screen{
+    height:100px;
+    width:100%;
+    /* border:green 5px dashed; */
+    box-sizing: border-box;
+    padding : 0 10px;
+    background-color: #f609442d;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    color:rgb(242, 178, 178);
+    font-weight: bold;
+}

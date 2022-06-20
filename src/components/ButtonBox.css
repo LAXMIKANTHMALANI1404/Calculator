@@ -1,0 +1,12 @@
+.buttonBox{
+    /* border:rgb(13, 1, 57) 4px solid; */
+    width: 100%;
+    margin-top:10px;
+    height:430px;
+    display:grid;
+    grid-template-columns: repeat(4 ,1fr);
+    grid-template-rows: repeat(5,1fr);
+    grid-gap:10px;
+    box-sizing: border-box;
+    
+}

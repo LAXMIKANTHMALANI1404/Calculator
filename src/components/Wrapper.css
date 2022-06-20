@@ -1,0 +1,9 @@
+.Wrapper{
+    width:340px;
+    height:540px;
+    /* border:green 5px solid; */
+    padding:10px;
+    border-radius: 10px;
+    background-color: #485461;
+    background-image: linear-gradient(315deg, #001b08 0%, #000709 74%);
+}
